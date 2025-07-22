@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marklewis Mutugi</h1
+<h1 align="center">Hi 👋, I'm Abdiawal Aden Siad</h1
                                                
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer💻;Youtube😁+Tech💻+Educator🙈;Web+Developer+🌐;Open+Source+Contributor🤝;Full+Stack+MERN+Developer😁;Dart+with+flutter+Enthusiast🚀;AI+/+ML+Enthusiast" alt="Typing Animation"/>
@@ -7,13 +7,13 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
 
-- 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**
+- 🔭 I’m currently working on **[Government Transparency app](https://github.com/abdiawal254/Opentrustglobal.git)**
 - 🌐Visit my Portfolio Website at👉 **[Portfolio✨](https://marklewis-verse-folio.vercel.app/)**
 - 🌱 I’m learning **React.js, Next.js, and AI development**
 - 👯 I’m looking to collaborate on **exciting open-source projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marklewis-ngondi254/)** | **[Twitter](https://x.com/LewiiiTheG)** | **[Email](ngondimarklewis@gmail.com)**
-- ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**
-- 🎥 Recently Started a Youtube Tech Channel😁🚀 [Subscribe🙏🙌](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdiawal-siad/)** | **[Twitter]([https://x.com/L](https://x.com/A23935Aden))** | **[Email](adenabdiawal@gmail.com)**
+- ⚡ Fun fact: I love **tech, football (Man City FC 💙), and coding challenges!**
+- 🎥 Recently Started a Youtube Tech Channel😁🚀 [Subscribe🙏🙌](https://www.youtube.com/@Abdicagameyrane)
 
 ---
 
@@ -111,13 +111,13 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 
 ### 📫 **Connect with Me**
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiii254)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lewiiii_thee_g/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254790767347)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/lewiiiTheeG)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code-with-lewii?si=-ryAFFjy26FaUM6P)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/A23935Aden)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdiawal254)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awaldeen)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254722129118)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Abdiawal-siad)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Abdicagameyrane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiawal-siad)
 
 ---
 
@@ -125,7 +125,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 ### Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
 
-[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/lewiii254/lewiii254/discussions/1)
+[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/abdiawal254/abdiawal254/discussions/1)
 
 ---
 ### ⭐ **Show some love by starring my repos!** 😊  
@@ -161,7 +161,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
-[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/lewiii254)
+[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/abdiawal254)
 <!---
 lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
